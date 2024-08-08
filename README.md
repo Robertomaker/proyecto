@@ -24,6 +24,15 @@ Introduccion https://github.com/Robertomaker/proyecto/wiki/Introduccion
 
 Requerimientos https://github.com/Robertomaker/proyecto/wiki/Requerimientos
 
+Instalacion https://github.com/Robertomaker/proyecto/wiki/Instalacion
+
+Configuracion 
+
 Uso https://github.com/Robertomaker/proyecto/wiki/Uso
+
+Contribucion 
+
+Roadmap 
+
 
 
