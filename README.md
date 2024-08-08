@@ -17,5 +17,6 @@ Administrador de acceso: Controlara el acceso al sistema, limitandolo unicamente
 Plataforma: De ser posible, se espera poder tener una version movil o en su defecto una de escritorio.
 Gestion de clientes: Se espera poder dar de alta y de baja a clientes, modificar la informacion que se requiera, mostrar la lista de los clientes que s encuentren dados de
 alta, entre otros.
+
 Introduccion https://github.com/Robertomaker/proyecto/wiki/Introduccion
 
