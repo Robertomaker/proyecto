@@ -24,3 +24,6 @@ Introduccion https://github.com/Robertomaker/proyecto/wiki/Introduccion
 
 Requerimientos https://github.com/Robertomaker/proyecto/wiki/Requerimientos
 
+Uso https://github.com/Robertomaker/proyecto/wiki/Uso
+
+
