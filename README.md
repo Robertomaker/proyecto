@@ -18,5 +18,9 @@ Plataforma: De ser posible, se espera poder tener una version movil o en su defe
 Gestion de clientes: Se espera poder dar de alta y de baja a clientes, modificar la informacion que se requiera, mostrar la lista de los clientes que s encuentren dados de
 alta, entre otros.
 
+Tabla de contenido:
+
 Introduccion https://github.com/Robertomaker/proyecto/wiki/Introduccion
+
+Requerimientos 
 
