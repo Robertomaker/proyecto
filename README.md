@@ -1,4 +1,4 @@
-# proyecto
+# Proyecto corporativo
 Proyecto correspondiente a tetramestre empresarial ll
 Descripcion:
 Proyecto correspondinte al tetramestre empresarial ll de universidad tecmilenio, que pretende trabajar con una organizacion para generar alguna mejora, desarrollar algun nuevo
