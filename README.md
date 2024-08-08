@@ -22,5 +22,5 @@ Tabla de contenido:
 
 Introduccion https://github.com/Robertomaker/proyecto/wiki/Introduccion
 
-Requerimientos https://github.com/Robertomaker/proyecto/wiki/Requerimientos.
+Requerimientos https://github.com/Robertomaker/proyecto/wiki/Requerimientos
 
